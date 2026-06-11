@@ -12,7 +12,7 @@ I like building things end to end — LLM agents and orchestration, full-stack p
 - **[QR Toolkit](https://github.com/Radu028/qr-toolkit)** — QR encoder and decoder written from scratch in Python, with Reed–Solomon error correction
 - **[OS Storage Management](https://github.com/Radu028/minimal-os-storage-management)** — x86 assembly storage manager with file operations and memory defragmentation
 
-### Tools I use most
+### Tech I use most
 
 C++ · C# · TypeScript · Python | .NET · React · Next.js · TanStack Start · Convex · PostgreSQL · PyTorch · Docker
 
