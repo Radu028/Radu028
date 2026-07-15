@@ -1,21 +1,24 @@
-## Radu-Stefan Popa
+# Radu-Stefan Popa
 
-Software engineer and Computer Science student at the University of Bucharest. I work on software for ophthalmic surgery devices at Liamis & HEB International, and on extending PQPP (CVPR 2025) to new languages as an undergraduate researcher.
+Software engineer and Computer Science student at the University of Bucharest.
 
-I like building things end to end, from LLM agents and orchestration to full-stack products and C++ systems.
+At **Liamis & HEB International**, I debug multithreaded C# software for ophthalmic surgery systems and prototype tools for device-log triage. I also work with **Prof. Radu Tudor Ionescu** on extending **PQPP (CVPR 2025)** to Romanian.
 
-### Selected projects
+I enjoy building software end to end: reliable systems, applied machine learning, and products that remain useful beyond the demo.
 
-- **[AI Arena](https://github.com/Radu028/ai-arena)**: live platform where OpenAI, Anthropic, and Google models compete in real-time game rounds, judged by humans and AI peers. [Try it live](https://ai-arena-seven.vercel.app)
-- **[Micro Social](https://github.com/Radu028/micro-social)**: full-stack social platform (ASP.NET Core + Next.js) with AI moderation and image captioning
-- **[3D Game Engine](https://github.com/Radu028/game-engine)**: C++ engine with A* pathfinding, behavioral NPC AI, and Bullet Physics
-- **[QR Toolkit](https://github.com/Radu028/qr-toolkit)**: QR encoder and decoder written from scratch in Python, with Reed-Solomon error correction
-- **[OS Storage Management](https://github.com/Radu028/minimal-os-storage-management)**: x86 assembly storage manager with file operations and memory defragmentation
+## Selected work
 
-### Tech I use most
+- **[AI Arena](https://github.com/Radu028/ai-arena)** — live arena for nine OpenAI, Anthropic, and Google models, with parallel inference, anonymous voting, AI judging, and latency/cost tracking. [Live app](https://ai-arena-seven.vercel.app)
+- **Signal Classification Challenge** — placed 4th of 150 after raising 5-fold validation accuracy from 0.321 to 0.793 on 15,500 spectrograms.
+- **[Social Media Platform](https://github.com/Radu028/social-media-platform)** — ASP.NET Core and Next.js application with 65 REST endpoints, groups, private follows, chat, Gemini moderation, and Docker deployment.
+- **[3D Game Engine](https://github.com/Radu028/game-engine)** — C++23 engine with dynamic-navmesh A*, NPC state machines, Bullet physics, and sanitizer-backed navigation tests.
+- **[QR Toolkit](https://github.com/Radu028/qr-toolkit)** — Python QR encoder/decoder with finder-pattern detection, masking, bitstream parsing, and Reed-Solomon correction.
+- **[Banking System](https://github.com/Radu028/banking)** — Java/JDBC application with repository-based persistence, transactional transfers, account/card workflows, and audit logs.
 
-C++ · C# · TypeScript · Python | .NET · React · Next.js · TanStack Start · Convex · PostgreSQL · PyTorch · Docker
+## Working with
 
-### Contact
+C++ · C#/.NET · TypeScript · Python · Java · React · PyTorch · PostgreSQL · Docker
 
-[LinkedIn](https://www.linkedin.com/in/radupopa28) · radupopa028@gmail.com
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/radupopa28) · [Email](mailto:radupopa028@gmail.com)
