@@ -2,9 +2,9 @@
 
 Software engineer and Computer Science student at the University of Bucharest.
 
-I work across C#, TypeScript, C++, Python, and Java. I like projects that make me understand the whole system: data model, backend, user-facing behavior, deployment, and the awkward edge cases in between.
+I work across C#, TypeScript, C++, Python, and Java. I like projects that let me work across the whole system: data model, backend, user-facing behavior, deployment, and the awkward edge cases in between.
 
-Currently, I am:
+Recent work includes:
 
 - debugging multithreaded C# software used in ophthalmic surgery systems;
 - prototyping an internal assistant for device-log triage and related-incident retrieval;
