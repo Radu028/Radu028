@@ -2,22 +2,23 @@
 
 Software engineer and Computer Science student at the University of Bucharest.
 
-At **Liamis & HEB International**, I debug multithreaded C# software for ophthalmic surgery systems and prototype tools for device-log triage. I also work with **Prof. Radu Tudor Ionescu** on extending **PQPP (CVPR 2025)** across multiple languages.
+I work across C#, TypeScript, C++, Python, and Java. I like projects that make me understand the whole system: data model, backend, user-facing behavior, deployment, and the awkward edge cases in between.
 
-I enjoy building software end to end: reliable systems, applied machine learning, and products that remain useful beyond the demo.
+Currently, I am:
 
-## Selected work
+- debugging multithreaded C# software used in ophthalmic surgery systems;
+- prototyping an internal assistant for device-log triage and related-incident retrieval;
+- working with Prof. Radu Tudor Ionescu on extending PQPP (CVPR 2025) across multiple languages;
+- tutoring algorithms and data structures at the University of Bucharest.
 
-- **[AI Arena](https://github.com/Radu028/ai-arena)** — live arena for nine OpenAI, Anthropic, and Google models, with parallel inference, anonymous voting, AI judging, and latency/cost tracking. [Live app](https://ai-arena-seven.vercel.app)
-- **Signal Classification Challenge** — placed 4th of 150 after raising 5-fold validation accuracy from 0.321 to 0.793 on 15,500 spectrograms.
-- **[Social Media Platform](https://github.com/Radu028/social-media-platform)** — ASP.NET Core and Next.js application with 65 REST endpoints, groups, private follows, chat, Gemini moderation, and Docker deployment.
-- **[3D Game Engine](https://github.com/Radu028/game-engine)** — C++23 engine with dynamic-navmesh A*, NPC state machines, Bullet physics, and sanitizer-backed navigation tests.
-- **[QR Toolkit](https://github.com/Radu028/qr-toolkit)** — Python QR encoder/decoder with finder-pattern detection, masking, bitstream parsing, and Reed-Solomon correction.
-- **[Banking System](https://github.com/Radu028/banking)** — Java/JDBC application with repository-based persistence, transactional transfers, account/card workflows, and audit logs.
+## Selected projects
 
-## Working with
-
-C++ · C#/.NET · TypeScript · Python · Java · React · PyTorch · PostgreSQL · Docker
+- **[AI Arena](https://github.com/Radu028/ai-arena)** — live comparison arena for nine OpenAI, Anthropic, and Google models, with parallel inference, anonymous voting, AI judging, and per-round latency and cost tracking. [Live app](https://ai-arena-seven.vercel.app)
+- **[3D Game Engine](https://github.com/Radu028/game-engine)** — C++23 engine with dynamic-navmesh A* pathfinding, state-driven NPCs, Bullet physics, and raylib rendering.
+- **[Social Media Platform](https://github.com/Radu028/social-media-platform)** — ASP.NET Core and Next.js application with 65 REST endpoints, private follows, groups, chat, and Gemini-backed moderation.
+- **[QR Toolkit](https://github.com/Radu028/qr-toolkit)** — Python QR encoder and decoder with finder-pattern detection, masking, bitstream parsing, and Reed-Solomon correction.
+- **[Banking System](https://github.com/Radu028/banking)** — Java/JDBC application with repository-based persistence, transactional transfers, account and card workflows, reporting, and audit logs.
+- **[OS Storage Management](https://github.com/Radu028/minimal-os-storage-management)** — x86 assembly implementation of allocation, lookup, deletion, and defragmentation for one- and two-dimensional storage layouts.
 
 ## Contact
 
