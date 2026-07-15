@@ -2,7 +2,7 @@
 
 Software engineer and Computer Science student at the University of Bucharest.
 
-At **Liamis & HEB International**, I debug multithreaded C# software for ophthalmic surgery systems and prototype tools for device-log triage. I also work with **Prof. Radu Tudor Ionescu** on extending **PQPP (CVPR 2025)** to Romanian.
+At **Liamis & HEB International**, I debug multithreaded C# software for ophthalmic surgery systems and prototype tools for device-log triage. I also work with **Prof. Radu Tudor Ionescu** on extending **PQPP (CVPR 2025)** across multiple languages.
 
 I enjoy building software end to end: reliable systems, applied machine learning, and products that remain useful beyond the demo.
 
