@@ -1,25 +1,21 @@
 # Radu-Stefan Popa
 
-Software engineer and Computer Science student at the University of Bucharest.
+Final-year Computer Science undergraduate at the University of Bucharest, expected to graduate in July 2027.
 
-I work across C#, TypeScript, C++, Python, and Java. I like projects that let me work across the whole system: data model, backend, user-facing behavior, deployment, and the awkward edge cases in between.
+## Research
 
-Recent work includes:
+### Romanian ChildLM, with Sergiu Nisioi
 
-- debugging multithreaded C# software used in ophthalmic surgery systems;
-- prototyping an internal assistant for device-log triage and related-incident retrieval;
-- working with Prof. Radu Tudor Ionescu on extending PQPP (CVPR 2025) across multiple languages;
-- tutoring algorithms and data structures at the University of Bucharest.
+I lead a project on how much Romanian grammar small language models learn from media made for children. I built a 10M-word corpus from the captions of Romanian children's videos, trained GPT-2 and GPT-BERT models on it and evaluated their grammatical agreement.
 
-## Selected projects
+- Radu-Stefan Popa, Adina Camelia Bleotu, Sergiu Nisioi. [Romanian Small Language Models Trained on Native Child-Targeted Media](https://openreview.net/forum?id=JitnCb895x). NeurIPS 2026 Workshop on Linguistic Principles for Foundation Models (LP4FM), accepted poster, non-archival. [Code](https://github.com/Radu028/ro-childlm)
 
-- **[AI Arena](https://github.com/Radu028/ai-arena)** — live comparison arena for nine OpenAI, Anthropic, and Google models, with parallel inference, anonymous voting, AI judging, and per-round latency and cost tracking. [Live app](https://ai-arena-seven.vercel.app)
-- **[3D Game Engine](https://github.com/Radu028/game-engine)** — C++23 engine with dynamic-navmesh A* pathfinding, state-driven NPCs, Bullet physics, and raylib rendering.
-- **[Social Media Platform](https://github.com/Radu028/social-media-platform)** — ASP.NET Core and Next.js application with 65 REST endpoints, private follows, groups, chat, and Gemini-backed moderation.
-- **[QR Toolkit](https://github.com/Radu028/qr-toolkit)** — Python QR encoder and decoder with finder-pattern detection, masking, bitstream parsing, and Reed-Solomon correction.
-- **[Banking System](https://github.com/Radu028/banking)** — Java/JDBC application with repository-based persistence, transactional transfers, account and card workflows, reporting, and audit logs.
-- **[OS Storage Management](https://github.com/Radu028/minimal-os-storage-management)** — x86 assembly implementation of allocation, lookup, deletion, and defragmentation for one- and two-dimensional storage layouts.
+### Multilingual PQPP, with Radu Tudor Ionescu
 
-## Contact
+PQPP is a benchmark for predicting how hard a prompt is for text-to-image generation and image retrieval, and we are extending it to more languages. I built the image-captioning pipeline used for six languages (BLIP-2 and Centurio, zero-shot and with LoRA), and I run the Diffusion-DPO fine-tuning of the text-to-image models across languages.
 
-[LinkedIn](https://www.linkedin.com/in/radupopa28) · [Email](mailto:radupopa028@gmail.com)
+## Work and teaching
+
+I work as a software engineer on multithreaded C# and C++ software for eye surgery systems, where I also built an LLM assistant for bug triage. At the University of Bucharest, I am an undergraduate tutor for algorithms and data structures.
+
+[OpenReview](https://openreview.net/profile?id=~Radu-Stefan_Popa1) · [LinkedIn](https://www.linkedin.com/in/radupopa28) · [Email](mailto:radupopa028@gmail.com)
