@@ -1,4 +1,4 @@
-# Radu-Stefan Popa
+# Radu Stefan Popa
 
 Final-year Computer Science undergraduate at the University of Bucharest, expected to graduate in July 2027.
 
